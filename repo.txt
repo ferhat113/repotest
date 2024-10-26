@@ -1,0 +1,21 @@
+
+002 T-l-charger-Docker-Desktop
+https://docs.docker.com/desktop/windows/install/
+
+002 Installation-de-WSLv2
+https://docs.microsoft.com/en-us/windows/wsl/install
+
+004 GitHub-Desktop
+https://desktop.github.com/
+
+004 D-p-t-GIT-du-cours-cloner
+https://gitlab.com/jassouline/udemy-docker.git
+
+004 Quest-ce-que-GitHub-
+https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github/2433636-github-quest-ce-que-cest
+
+005 T-l-chargement-de-Visual-Studio-Code
+https://code.visualstudio.com/
+
+006 T-l-charger-cmder
+https://cmder.net
